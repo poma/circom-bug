@@ -1,0 +1,6 @@
+Usage:
+
+```
+yarn
+./test.sh
+```
